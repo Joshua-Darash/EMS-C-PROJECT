@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1623241354 source:c:\users\omia moses\desktop\codeblocks\events management\main.c
+	<stdio.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+
+1623938025 source:c:\users\omia moses\desktop\codeblocks\mini project\events management\main.c
+	<stdio.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
+1627288712 source:c:\users\good2\desktop\moses\events management\events management\main.c
+	<stdio.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
+1627654914 source:c:\users\good2\desktop\moses\events management fair\events management\main.c
+	<stdio.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
+1628165042 source:c:\users\omia moses\desktop\events management fair\events management\main.c
+	<stdio.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
+1628253620 source:c:\users\good2\desktop\moses\group 7 events1\events management\main.c
+	<stdio.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
+1628442058 source:c:\users\omia moses\desktop\mosy\group 7 events1\events management\main.c
+	<stdio.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
+1628607331 source:c:\users\omia moses\desktop\group 7 ems\group 7\events management company\main.c
+	<stdio.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
+1628659505 source:c:\users\good2\desktop\cpe1102 project 2021, year 1\group 7 ems final\group 7 ems\group 7\events management company\main.c
+	<stdio.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
+1628659505 source:c:\users\good2\desktop\cpe1106 project 2021, year 1\group 7 ems final\group 7 ems\group 7\events management company\main.c
+	<stdio.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+
